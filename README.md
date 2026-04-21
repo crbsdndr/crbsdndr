@@ -11,7 +11,7 @@ I'm a software developer who moves fast and adapts faster. I've shipped web apps
 ---
 
 ## 📦 Projects
-- **DIMAN** *(Proprietary)* — Built under company instruction. Integrates Firestore, Firebase Realtime DB, Firebase Auth, Firebase App Hosting, Xendit, and more.
+- **DIMAN** *(Proprietary)* — Built under company instruction. Integrates Firestore, Firebase Realtime DB, Firebase Auth, Firebase App Hosting, Xendit, and more. The idea is currently kept secret.
 - **[BantuGuruAI](https://github.com/crbsdndr/BantuGuruAI)** — A web tool for teachers to generate RPP, LKPD, question banks, and illustrations using Gemini API with school-standard templates.
 - **[Flux-Page](https://github.com/crbsdndr/flux-page)** — A fun website that changes its own UI — or breaks itself — based on user instructions.
 - **[Animal Detection](https://github.com/crbsdndr/animal_detection)** — Classifies animals by shape. Images are converted to black & white so the model focuses on form, not color.
