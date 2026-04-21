@@ -1,4 +1,4 @@
-# Hey, I'm Anciera 👋
+# Hey, I'm Dendra 👋
 
 I'm a software developer who moves fast and adapts faster. I've shipped web apps with Next.js and mobile apps with React Native — comfortable working solo or in a team. My dev experience sits close to senior level, and I care a lot about Developer Experience (DX).
 
